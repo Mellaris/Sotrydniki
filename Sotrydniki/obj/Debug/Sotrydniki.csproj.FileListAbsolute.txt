@@ -1,0 +1,15 @@
+E:\Sotrydniki\bin\Debug\Sotrydniki.exe.config
+E:\Sotrydniki\bin\Debug\Sotrydniki.exe
+E:\Sotrydniki\bin\Debug\Sotrydniki.pdb
+E:\Sotrydniki\obj\Debug\Sotrydniki.csproj.AssemblyReference.cache
+E:\Sotrydniki\obj\Debug\Sotrydniki.csproj.CoreCompileInputs.cache
+E:\Sotrydniki\obj\Debug\Sotrydniki.exe
+E:\Sotrydniki\obj\Debug\Sotrydniki.pdb
+D:\Sotrydniki\bin\Debug\Sotrydniki.exe.config
+D:\Sotrydniki\bin\Debug\Sotrydniki.exe
+D:\Sotrydniki\bin\Debug\Sotrydniki.pdb
+D:\Sotrydniki\obj\Debug\Sotrydniki.csproj.AssemblyReference.cache
+D:\Sotrydniki\obj\Debug\Sotrydniki.csproj.CoreCompileInputs.cache
+D:\Sotrydniki\obj\Debug\Sotrydniki.exe
+D:\Sotrydniki\obj\Debug\Sotrydniki.pdb
+D:\Sotrydniki\obj\Debug\Sotrydniki.csproj.SuggestedBindingRedirects.cache
