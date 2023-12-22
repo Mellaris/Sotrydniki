@@ -16,6 +16,7 @@ namespace Sotrydniki
             nachal.Vivod(sotr);
             nachal.Vivod_2(sotr);
             Console.ReadKey();
+
         }
     }
 }

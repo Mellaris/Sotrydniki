@@ -29,8 +29,11 @@ namespace Sotrydniki
         {
             Console.Write("Введите имя сотрудника: ");
             name = Console.ReadLine();
-            Console.Write("Введите возраст сотрудника: ");
-            age = Convert.ToInt32(Console.ReadLine());
+            do
+            {
+                Console.Write("Введите возраст сотрудника: (не меньше 16 и не больше 50");
+                age = Convert.ToInt32(Console.ReadLine());
+            } while (age < 16 || age > 50);
             Console.Write("Введите отдел сотрудника(1 или 2): ");
             description = Convert.ToInt32(Console.ReadLine());
         }
